@@ -2,7 +2,7 @@
 The Reddit Redirector is a Chrome extension that allows you to quickly navigate to a subreddit by typing "r/" followed by the subreddit name in the Omnibox. It automatically redirects you to the desired subreddit page on Reddit, making subreddit navigation faster and easier.
 
 ## How to Use
-1. Install the extension from the Chrome Web Store or load it as an unpacked extension in developer mode.
+1. Load it as an unpacked extension in developer mode from the Chrome extension settings.
 
 2. In the Chrome Omnibox, type "r/" followed by the name of the subreddit you want to visit.
 
